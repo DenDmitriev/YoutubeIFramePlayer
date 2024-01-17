@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "Faraway.Downs.S01E06.1080p.rus.LostFilm.TV.cache.0.10.00.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
